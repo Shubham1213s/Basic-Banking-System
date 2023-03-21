@@ -6,4 +6,6 @@ Work Flow: Home Page > View all Customers > Select and View one Customer > Trans
 
 Languages Used :
 
-Front-end : HTML, CSS, Bootstrap & Javascript                                                                                          Back-end : PHP Database : MySQL
+Front-end : HTML, CSS, Bootstrap & Javascript                                                                                          
+
+Back-end : PHP Database : MySQL
